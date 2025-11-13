@@ -1,83 +1,69 @@
-# Pixel Flow 🍿🎬 💿
+Pixel Flow 🍿🎬 💿
+📄 Project Description
+Pixel Flow is a modern and dynamic website designed for movie lovers. The platform offers users an interactive experience to explore, search, and discover movies in a simple and entertaining way. Our main goal is to provide a space where cinephiles can stay up to date with the latest releases, find detailed information about their favorite movies, and browse through an extensive and well-organized catalog.
 
-## 📄 Descripción del Proyecto
+✨ Key Features
 
-*Pixel Flow* es una página web moderna y dinámica diseñada para los amantes del cine. La plataforma ofrece a los usuarios una experiencia interactiva para explorar, buscar y descubrir películas de forma sencilla y entretenida. Nuestro objetivo principal es proporcionar un espacio donde los cinéfilos puedan mantenerse al día con los últimos estrenos, encontrar información detallada sobre sus películas favoritas y navegar por un catálogo extenso y bien organizado.
+🎞️ Interactive Homepage: A featured movie carousel to discover the latest releases and trends.
+🎞️ Advanced Search: An intuitive search engine that allows users to quickly find movies by title.
+🎞️ Movie Details: Clicking on a movie displays a dedicated page with complete information, including synopsis, cast, director, trailer, rating, release year, and runtime.
+🎞️ Genre Categorization: The ability to filter movies by different genres for more specific browsing.
+🎞️ Responsive Design: The interface adapts perfectly to any device, from desktop computers to mobile phones and tablets.
 
----
 
-## ✨ Características Principales
+🛠️ Technologies and Tools
+This project was developed using a combination of modern technologies to ensure optimal performance and a smooth user experience.
 
-* 🎞️ *Página de Inicio Interactiva:* Un carrusel de películas destacadas para descubrir los últimos estrenos y tendencias.
-* 🎞️ *Búsqueda Avanzada:* Un buscador intuitivo que permite a los usuarios encontrar películas por título de forma rápida.
-* 🎞️ *Detalles de Película:* Al hacer clic en una película, se muestra una página dedicada con información completa, incluyendo sinopsis, elenco, director, tráiler, calificación, año de lanzamiento y duración.
-* 🎞️ *Categorización por Género:* La posibilidad de filtrar películas por diferentes géneros para una navegación más específica.
-* 🎞️ *Diseño Responsivo:* La interfaz se adapta perfectamente a cualquier dispositivo, desde computadoras de escritorio hasta teléfonos móviles y tabletas.
+💻 HTML, CSS, JS: The fundamentals of the web for structure and styling.
+💻 React: JavaScript library for building interactive and scalable user interfaces.
+💻 Bootstrap and React-Bootstrap: CSS frameworks for responsive design and pre-built interface components.
+💻 React-Router: To manage navigation between different pages of the application without reloading the entire page.
+💻 Bootstrap-Icons: For a set of clean and professional icons that enhance the visual experience.
+💻 React-Hook-Form: To handle forms efficiently with simple validations.
+💻 Netlify: Platform for continuous project deployment.
 
----
 
-## 🛠️ Tecnologías y Herramientas
+🚀 Project Deployment
+You can access the latest version of the project at the following link:
 
-Este proyecto fue desarrollado utilizando una combinación de tecnologías modernas para garantizar un rendimiento óptimo y una experiencia de usuario fluida.
+Project Link: (Click Here!)[https://pixelsmovies-front.netlify.app]
 
-* 💻 *HTML, CSS, JS:* Los fundamentos de la web para la estructura y el estilo.
-* 💻 *React:* Biblioteca de JavaScript para construir interfaces de usuario interactivas y escalables.
-* 💻 *Bootstrap y React-Bootstrap:* Frameworks de CSS para un diseño responsivo y componentes de interfaz preconstruidos.
-* 💻 *React-Router:* Para gestionar la navegación entre las diferentes páginas de la aplicación sin recargar la página completa.
-* 💻 *Bootstrap-Icons:* Para un conjunto de iconos limpios y profesionales que mejoran la experiencia visual.
-* 💻 *React-Hook-Form:* Para manejar los formularios de manera eficiente y con validaciones simples.
-* 💻 *Netlify:* Plataforma para el despliegue continuo del proyecto.
 
----
+💻 Installation and Usage
+To run the project locally, you can follow these steps for easy guidance.
+You can open the terminal in Visual Studio Code (with the shortcut Ctrl + ñ or go to Terminal > New Terminal) and follow these simple steps:
 
-## 🚀 Despliegue del Proyecto
 
-Puedes acceder a la versión más reciente del proyecto en el siguiente enlace:
+Clone the repository:
+Run this command to download the project into a new folder with the name you choose (you can replace the folder name with whatever you prefer):
 
-* *Enlace del Proyecto:* [Click Aquí!](https://pixelsmovies-front.netlify.app/)
+bash    git clone https://github.com/Pablo-German-Jimenez/proyecto-final-modulo-2.git your-folder-name
 
----
 
-## 💻 Instalación y Uso
+Navigate to the project directory:
+Now, enter the folder you just created (or enter with the name you replaced):
 
-Para ejecutar el proyecto localmente, puedes seguir estos pasos para guiarte de una manera sencilla.
+bash    cd your-folder-name
 
-Puedes abrir la terminal en Visual Studio Code (con el atajo Ctrl + ñ o ir a Terminal > New Terminal) y sigue estos sencillos pasos:
 
-1.  ### Clona el repositorio:
-    Ejecuta este comando para descargar el proyecto en una nueva carpeta con el nombre que elijas (puedes reemplazar el nombre de la carpeta por lo que prefieras):
+Install the necessary dependencies:
+Run this command to install the required libraries:
 
-    bash
-    git clone [https://github.com/Pablo-German-Jimenez/proyecto-final-modulo-2.git](https://github.com/Pablo-German-Jimenez/proyecto-final-modulo-2.git) nombre-de-tu-carpeta
-    
-2.  ### Navega al directorio del proyecto:
+bash    npm install
 
-    Ahora, entra en la carpeta que acabas de crear (o entrando con el nombre que reemplazaste):
 
-    bash
-    cd nombre-de-tu-carpeta
-    
-3.  ### Instala las dependencias necesarias:
-    Ejecuta este comando para instalar las librerías necesarias:
+Start the application in development mode:
+Start the application in development mode. The project will automatically open in your browser.
 
-    bash
-    npm install
-    
-4.  ### Inicia la aplicación en modo de desarrollo:
+bash    npm start
 
-    Inicia la aplicación en modo de desarrollo. El proyecto se abrirá automáticamente en tu navegador.
 
-    bash
-    npm start
-    
 ✨ Author
 Created by Pablo Germán Jiménez
 Design inspired by 💥 hip-hop vibes from Bboy Linkin
-
-###### [Access to profile GitHub](https://github.com/Pablo-German-Jimenez)💻
-###### [Access to profile Linkedin](https://www.linkedin.com/in/pablo-german-jimenez-0b706a200/)📊
-
-💥 Breaker-boy for ever🎵 
+Access to profile GitHub💻
+Access to profile Linkedin📊
+💥 Breaker-boy forever🎵
 
  ![🔥#Bboys on fire 🎵 ](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG11M2dtOHdnYWUxN3N6NTFoZ2t5Z24xcmV5djJjcjI4ODlyZ3duZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ANFZtmUiXncuUmKMwY/giphy.gif)
 ---
